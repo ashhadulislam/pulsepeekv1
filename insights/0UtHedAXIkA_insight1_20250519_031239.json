@@ -1,0 +1,39 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 5,
+    "neutral": 2,
+    "negative": 13
+  },
+  "dominant_emotions": [
+    "pride",
+    "anger",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 8,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "nationalism",
+    "India-Pakistan relations",
+    "political bias",
+    "human rights",
+    "media portrayal"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Israel",
+    "BJP",
+    "Hindutva",
+    "Ummah"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized with a strong presence of nationalistic sentiments, particularly from Pakistani commentators expressing pride and joy over perceived victories against India. There is a significant amount of negative sentiment directed towards India, its government, and policies, with comments often laced with sarcasm and anger. The discussion touches on sensitive geopolitical issues, including India-Pakistan relations, the role of Israel, and criticisms of the BJP and Hindutva ideology. The high controversy score and toxic comment count indicate a volatile discussion environment, with a notable presence of spam. These patterns suggest the video's content has sparked intense debate among viewers with deeply opposing views, reflecting broader geopolitical tensions.",
+  "title": "Indians Finally Admit Pakistan Won",
+  "uploader_id": "@smiletojannah"
+}
