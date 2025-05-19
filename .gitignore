@@ -1,2 +1,6 @@
 .DS_Store
 comments_scraped/
+comments_scraped_csv/
+comments_scraped_pkl/
+hashes/
+URLs/
