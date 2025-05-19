@@ -1,0 +1,36 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 8,
+    "neutral": 5,
+    "negative": 12
+  },
+  "dominant_emotions": [
+    "anger",
+    "pride",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 6,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "nationalism",
+    "religion",
+    "misinformation",
+    "India-Pakistan relations"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Christians",
+    "Muslims",
+    "Hindus"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized with a strong presence of national pride, particularly from Pakistan supporters, and significant criticism directed towards India. There's a notable amount of misinformation and corrections regarding a supposed fighter pilot's identity, contributing to the controversy. Emotions range from anger and sarcasm to joy and pride, with a high level of toxicity observed. The discussion heavily revolves around India-Pakistan relations, religious harmony, and accusations of bias and misinformation.",
+  "title": "Christian Pilot Crushed India; Hero in Pakistan",
+  "uploader_id": "@smiletojannah"
+}

@@ -1,0 +1,39 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 5,
+    "neutral": 2,
+    "negative": 13
+  },
+  "dominant_emotions": [
+    "anger",
+    "pride",
+    "fear",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 7,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "India-Pakistan relations",
+    "terrorism",
+    "nationalism",
+    "media bias",
+    "nuclear threat"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "India",
+    "Pakistan",
+    "Muslims",
+    "terrorists",
+    "Modi",
+    "Pakistani army"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized with a strong presence of nationalist sentiments, accusations of terrorism, and media bias. There's a notable amount of toxicity, with emotions ranging from anger and fear to pride and sarcasm. The discussion heavily revolves around India-Pakistan relations, with frequent mentions of both countries, their leaders, and the concept of nationalism. The controversy score is high, indicating a deeply divided audience with strong opinions on both sides.",
+  "title": "India Banned Me – Now They're Targeting Children, Women & Mosques in Pakistan",
+  "uploader_id": "@smiletojannah"
+}

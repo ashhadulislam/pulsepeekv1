@@ -1,0 +1,36 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 10
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "disgust"
+  ],
+  "toxic_comment_count": 5,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "political leadership",
+    "India-Pakistan relations",
+    "nationalism",
+    "media bias",
+    "religious sentiments"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Modi",
+    "Pakistan",
+    "India",
+    "Muslim",
+    "Zionist"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized with a strong negative sentiment, dominated by criticism of political figures and nationalistic tensions between India and Pakistan. Sarcasm and toxicity are prevalent, with a significant focus on political leadership and international conflicts.",
+  "title": "India Got Attacked… So They Banned TV Shows 🤡",
+  "uploader_id": "@smiletojannah"
+}

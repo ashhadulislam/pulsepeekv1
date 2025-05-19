@@ -1,0 +1,40 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 3,
+    "neutral": 2,
+    "negative": 15
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 10,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "Douglas Murray criticism",
+    "Israel-Palestine conflict",
+    "Joe Rogan",
+    "Nazi comparisons",
+    "Islam and terrorism"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Douglas Murray",
+    "Joe Rogan",
+    "Israel",
+    "Palestine",
+    "Hamas",
+    "Islam",
+    "Jews"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Hindi/Urdu",
+    "Arabic"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized, with a strong negative sentiment towards Douglas Murray and a mix of support and criticism for Israel and Joe Rogan. Sarcasm and anger are prevalent, alongside discussions on the Israel-Palestine conflict, with frequent Nazi comparisons and mentions of Islam and terrorism. The section is marked by a high level of toxicity and controversy.",
+  "title": "Joe Rogan Mocks Pro-Israeli Douglas Murray",
+  "uploader_id": "@smiletojannah"
+}

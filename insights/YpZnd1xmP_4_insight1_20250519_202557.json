@@ -1,0 +1,35 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 1,
+    "neutral": 0,
+    "negative": 9
+  },
+  "dominant_emotions": [
+    "anger",
+    "disgust",
+    "fear"
+  ],
+  "toxic_comment_count": 7,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "censorship",
+    "nationalism",
+    "conspiracy theories",
+    "religion"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Israel",
+    "USA",
+    "Jews",
+    "Zionists",
+    "Palestine"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly negative and toxic, with a strong presence of conspiracy theories, anti-Semitic remarks, and discussions on censorship and nationalism. The controversy score is high due to the polarizing nature of the comments.",
+  "title": "They Told Me NOT to Post This",
+  "uploader_id": "@smiletojannah"
+}

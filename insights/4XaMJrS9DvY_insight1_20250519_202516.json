@@ -1,0 +1,40 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 10,
+    "neutral": 5,
+    "negative": 35
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "joy",
+    "nationalism"
+  ],
+  "toxic_comment_count": 25,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "India-Pakistan conflict",
+    "nationalism",
+    "military technology",
+    "religion",
+    "international relations"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Modi",
+    "China",
+    "Muslims",
+    "Hindus"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "French"
+  ],
+  "spam_comment_count": 2,
+  "summary": "The comment section is highly polarized with a strong presence of nationalism and religious sentiment. There is a significant amount of toxicity, with many comments expressing anger and sarcasm towards India and its leadership. The discussion revolves around the India-Pakistan conflict, military technology, and international relations, with frequent mentions of national and religious identities. The controversy score is high, indicating a heated and divisive discussion.",
+  "title": "Pakistan Just Humiliated India on the World Stage",
+  "uploader_id": "@smiletojannah"
+}
