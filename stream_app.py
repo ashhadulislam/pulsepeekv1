@@ -94,8 +94,9 @@ if selected_id:
         st.pyplot(fig)
 
         # Emotions
-        st.markdown("### 😶‍🌫️ Dominant Emotions")
-        st.markdown(" ".join([f"<span style='background-color:#f0f0f0;padding:4px 10px;border-radius:10px;margin:2px'>{e}</span>" for e in data["dominant_emotions"]]), unsafe_allow_html=True)
+        #st.markdown("### 😶‍🌫️ Dominant Emotions")
+        #st.markdown(" ".join([f"<span style='background-color:#f0f0f0;padding:4px 10px;border-radius:10px;margin:2px'>{e}</span>" for e in data["dominant_emotions"]]), unsafe_allow_html=True)
+        render_tag_list("😶‍🌫️ Dominant Emotions", data["dominant_emotions"])
 
         if data.get("sarcasm_detected"):
             st.warning("😏 Sarcasm or irony detected in the comment section.")
