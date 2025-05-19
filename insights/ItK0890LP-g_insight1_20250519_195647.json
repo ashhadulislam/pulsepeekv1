@@ -1,0 +1,40 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 30,
+    "neutral": 5,
+    "negative": 15
+  },
+  "dominant_emotions": [
+    "pride",
+    "joy",
+    "anger",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 10,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "Muslim unity",
+    "nationalism",
+    "India-Pakistan relations",
+    "Turkey-Pakistan brotherhood",
+    "Kashmir conflict"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "Turkey",
+    "India",
+    "Muslims",
+    "Azerbaijan",
+    "Bangladesh"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "Turkish"
+  ],
+  "spam_comment_count": 2,
+  "summary": "The comment section is overwhelmingly positive towards Turkey and Pakistan, showcasing strong feelings of brotherhood and unity among Muslim countries. There's a significant amount of national pride and joy, especially in the context of Turkey and Pakistan's relationship. However, there's also a notable presence of negative sentiment and sarcasm directed towards India, reflecting a polarized and controversial discussion. The comments suggest a deep-seated rivalry and tension between India and Pakistan, with Turkey and other Muslim countries being seen as allies. The high controversy score indicates that the topic is highly divisive, with a mix of supportive and toxic comments.",
+  "title": "India’s MELTDOWN Against Turkey",
+  "uploader_id": "@smiletojannah"
+}

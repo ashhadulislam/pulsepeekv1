@@ -1,0 +1,38 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 15,
+    "neutral": 5,
+    "negative": 10
+  },
+  "dominant_emotions": [
+    "pride",
+    "anger",
+    "joy",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 5,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "nationalism",
+    "media bias",
+    "religious unity",
+    "military conflict"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Palestine",
+    "Muslims",
+    "Hindus"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "Arabic"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is overwhelmingly supportive of Pakistan, with a strong presence of national pride and religious unity among Muslims worldwide. There is significant criticism and sarcasm directed towards India, particularly its media and military, indicating a high level of controversy and polarization. The comments reflect a deep-seated animosity towards perceived biases and misinformation, alongside a celebration of Islamic unity and resistance against what is seen as Hindu nationalism. The tone ranges from humorous and sarcastic to outright hostile, with a notable absence of spam, focusing instead on geopolitical and religious solidarity.",
+  "title": "India Took Over Pakistan In 1 Night...",
+  "uploader_id": "@smiletojannah"
+}

@@ -1,0 +1,36 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 0,
+    "negative": 18
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 15,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "Hindu-Muslim relations",
+    "Kashmir conflict",
+    "religious extremism",
+    "political satire"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Hindus",
+    "Muslims",
+    "Pakistan",
+    "India",
+    "Modi",
+    "Kashmir"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized and emotionally charged, with a strong presence of negative sentiment, particularly anger and sarcasm, directed towards Hindu nationalism and the Indian government. There's a significant amount of toxicity, with comments mocking Hindu beliefs and expressing support for Muslim causes, especially in Kashmir and Palestine. The discussion reflects deep-seated religious and political tensions, with frequent mentions of 'Hindu vs Muslim' conflicts and criticism of Indian policies. The high controversy score indicates a volatile and divisive topic, with clear lines drawn between opposing viewpoints.",
+  "title": "India Got Attacked… So They Banned TV Shows 🤡",
+  "uploader_id": "@smiletojannah"
+}

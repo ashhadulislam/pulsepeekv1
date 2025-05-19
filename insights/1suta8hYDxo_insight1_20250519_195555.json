@@ -1,0 +1,42 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 12,
+    "neutral": 2,
+    "negative": 6
+  },
+  "dominant_emotions": [
+    "pride",
+    "solidarity",
+    "joy",
+    "anger",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 4,
+  "controversy_score": 0.8,
+  "key_topics": [
+    "Muslim unity",
+    "India-Pakistan relations",
+    "national pride",
+    "cyber attacks",
+    "international support"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Bangladesh",
+    "Türkiye",
+    "Muslims"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "Arabic",
+    "Indonesian",
+    "Bengali"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is overwhelmingly positive, with a strong sense of Muslim unity and national pride, particularly for Pakistan. There's notable solidarity among countries like Bangladesh, Türkiye, and Indonesia with Pakistan. However, there's also significant controversy and negativity directed towards India, with sarcasm and toxic comments present. The discussion revolves around international relations, cyber attacks, and the importance of Muslim countries supporting each other, indicating a highly engaged and polarized audience.",
+  "title": "India Couldn’t Handle Pakistan’s Cyber War",
+  "uploader_id": "@smiletojannah"
+}
