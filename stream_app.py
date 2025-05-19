@@ -13,6 +13,15 @@ INSIGHT_FOLDER = "insights"
 def get_video_id(filename):
     return filename.split("_")[0]
 
+def render_tag_list(title, items, bg_color="var(--secondary-background-color)"):
+    st.markdown(f"### {title}")
+    st.markdown(
+        " ".join([
+            f"<span style='background-color:{bg_color}; padding:4px 10px; border-radius:10px; margin:2px; display:inline-block; color:var(--text-color)'>{item}</span>"
+            for item in items
+        ]),
+        unsafe_allow_html=True
+    )
 
 # Helper to extract video_id, title, and uploader from each file
 def get_insight_metadata():
@@ -91,17 +100,22 @@ if selected_id:
         if data.get("sarcasm_detected"):
             st.warning("😏 Sarcasm or irony detected in the comment section.")
 
-        # Topics
-        st.markdown("### 🧠 Key Discussion Topics")
-        st.markdown(" ".join([f"<span style='background-color:#e0f7fa;padding:4px 10px;border-radius:10px;margin:2px'>{t}</span>" for t in data["key_topics"]]), unsafe_allow_html=True)
+        # Usage:
+        render_tag_list("🧠 Key Discussion Topics", data["key_topics"])
+        render_tag_list("🏷️ Frequent Bias / Group Mentions", data["frequent_bias_or_group_mentions"])
+        render_tag_list("🌐 Languages Detected", data["languages_detected"])
 
-        # Bias Mentions
-        st.markdown("### 🏷️ Frequent Bias / Group Mentions")
-        st.markdown(" ".join([f"<span style='background-color:#ffe0b2;padding:4px 10px;border-radius:10px;margin:2px'>{b}</span>" for b in data["frequent_bias_or_group_mentions"]]), unsafe_allow_html=True)
+       # # Topics
+       # st.markdown("### 🧠 Key Discussion Topics")
+       # st.markdown(" ".join([f"<span style='background-color:#e0f7fa;padding:4px 10px;border-radius:10px;margin:2px'>{t}</span>" for t in data["key_topics"]]), unsafe_allow_html=True)
 
-        # Languages
-        st.markdown("### 🌐 Languages Detected")
-        st.markdown(" ".join([f"<span style='background-color:#dcedc8;padding:4px 10px;border-radius:10px;margin:2px'>{l}</span>" for l in data["languages_detected"]]), unsafe_allow_html=True)
+       # # Bias Mentions
+       # st.markdown("### 🏷️ Frequent Bias / Group Mentions")
+       # st.markdown(" ".join([f"<span style='background-color:#ffe0b2;padding:4px 10px;border-radius:10px;margin:2px'>{b}</span>" for b in data["frequent_bias_or_group_mentions"]]), unsafe_allow_html=True)
+
+       # # Languages
+       # st.markdown("### 🌐 Languages Detected")
+       # st.markdown(" ".join([f"<span style='background-color:#dcedc8;padding:4px 10px;border-radius:10px;margin:2px'>{l}</span>" for l in data["languages_detected"]]), unsafe_allow_html=True)
 
         # Raw JSON
         with st.expander("🔍 View Raw JSON"):
