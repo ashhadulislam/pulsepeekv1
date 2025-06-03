@@ -1,0 +1,33 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 5,
+    "neutral": 2,
+    "negative": 3
+  },
+  "dominant_emotions": [
+    "joy",
+    "anger",
+    "pride"
+  ],
+  "toxic_comment_count": 1,
+  "controversy_score": 0.6,
+  "key_topics": [
+    "religion",
+    "Islam",
+    "social commentary",
+    "humor"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Islam",
+    "Palestine",
+    "government benefits"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is lively with a mix of humor, religious pride, and social criticism. There's a notable presence of joy and sarcasm, alongside some controversy and a single toxic comment.",
+  "title": "Verbal KO In Seconds 🥊",
+  "uploader_id": "@smiletojannah"
+}

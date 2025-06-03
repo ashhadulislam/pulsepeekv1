@@ -1,0 +1,37 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 1,
+    "neutral": 0,
+    "negative": 9
+  },
+  "dominant_emotions": [
+    "anger",
+    "disgust",
+    "hate"
+  ],
+  "toxic_comment_count": 8,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "genocide",
+    "Zionism",
+    "political corruption",
+    "media bias",
+    "international relations"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Israel",
+    "Palestine",
+    "Zionists",
+    "USA",
+    "UK",
+    "Hamas"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is overwhelmingly negative, with a high level of toxicity and controversy. Dominant emotions include anger, disgust, and hate, directed mainly towards Israel, Zionists, and political figures. Key topics revolve around accusations of genocide, political corruption, and media bias. The comments reflect a deep polarization and strong condemnation of perceived injustices.",
+  "title": "Congressman Goes UNHINGED On GAZA (Reaction)",
+  "uploader_id": "@smiletojannah"
+}

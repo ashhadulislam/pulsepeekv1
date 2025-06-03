@@ -1,0 +1,41 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 4,
+    "neutral": 2,
+    "negative": 14
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "joy",
+    "disgust"
+  ],
+  "toxic_comment_count": 8,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "Israel-Palestine conflict",
+    "Charlie Kirk debate",
+    "Cambridge University",
+    "Zionism",
+    "freedom of speech",
+    "genocide",
+    "Hamas",
+    "West Bank"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Charlie Kirk",
+    "Israel",
+    "Hamas",
+    "Cambridge University",
+    "Zionists",
+    "ICC"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized with a strong negative sentiment towards Charlie Kirk and Israel, reflecting deep divisions over the Israel-Palestine conflict. Sarcasm and anger are prevalent, with a significant amount of toxicity. The debate involving Charlie Kirk and a Cambridge University student is a focal point, alongside discussions on Zionism, genocide, and the role of Hamas and the West Bank in the conflict. There's also a notable presence of support for the content creator, alongside critiques on presentation and pronunciation.",
+  "title": "Random Student Just Ended Charlie Kirk’s Career",
+  "uploader_id": "@smiletojannah"
+}

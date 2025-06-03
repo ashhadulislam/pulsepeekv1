@@ -1,0 +1,36 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 17
+  },
+  "dominant_emotions": [
+    "sarcasm",
+    "joy",
+    "anger"
+  ],
+  "toxic_comment_count": 5,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "nationalism",
+    "propaganda",
+    "political risk",
+    "religious values",
+    "colonial history"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Modi",
+    "Muslims",
+    "British"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized with a strong presence of sarcasm and joy, alongside significant anger. Topics revolve around nationalism, political propaganda, and religious values, with frequent mentions of Pakistan, India, and Modi. The section exhibits a high level of controversy and toxicity, reflecting deep divisions and a critical view of political and national identities.",
+  "title": "The Belly Strikes First 💣",
+  "uploader_id": "@smiletojannah"
+}

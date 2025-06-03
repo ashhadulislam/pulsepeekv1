@@ -1,0 +1,36 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 0,
+    "negative": 8
+  },
+  "dominant_emotions": [
+    "anger",
+    "disgust",
+    "joy"
+  ],
+  "toxic_comment_count": 6,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "nationalism",
+    "religion",
+    "racism",
+    "gratitude"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Muslims",
+    "chavs",
+    "Pakistani teens",
+    "blacks",
+    "whites",
+    "Royal Family"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized and toxic, with a strong presence of nationalist and racist sentiments. There's significant controversy around religion and gratitude towards the host country. Sarcasm and joy are present but overshadowed by negative emotions.",
+  "title": "Bradford Made King Human 😂👑",
+  "uploader_id": "@smiletojannah"
+}

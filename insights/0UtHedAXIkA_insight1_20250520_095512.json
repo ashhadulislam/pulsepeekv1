@@ -1,0 +1,43 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 10,
+    "neutral": 5,
+    "negative": 15
+  },
+  "dominant_emotions": [
+    "national pride",
+    "anger",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 8,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "Pakistan-India relations",
+    "nationalism",
+    "terrorism",
+    "media bias",
+    "economic competition"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Modi",
+    "BJP",
+    "Muslims",
+    "China",
+    "Turkey",
+    "Azerbaijan",
+    "Bangladesh"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "Bengali"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized with strong expressions of national pride, particularly from Pakistan supporters, alongside significant criticism and sarcasm directed towards India. There's a notable presence of toxic comments, with discussions heavily focused on Pakistan-India relations, nationalism, and media bias. The controversy score is high, reflecting the divisive nature of the comments. Sarcasm and multiple languages are detected, adding to the complexity of the discourse.",
+  "title": "Indians Finally Admit Pakistan Won",
+  "uploader_id": "@smiletojannah"
+}

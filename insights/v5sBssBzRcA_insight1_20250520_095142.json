@@ -1,0 +1,33 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 6,
+    "neutral": 2,
+    "negative": 4
+  },
+  "dominant_emotions": [
+    "joy",
+    "sarcasm",
+    "anger"
+  ],
+  "toxic_comment_count": 2,
+  "controversy_score": 0.5,
+  "key_topics": [
+    "humor",
+    "criticism",
+    "health advice"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "India",
+    "scammers",
+    "kids"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is predominantly humorous with a significant presence of joy and sarcasm. There are instances of criticism and health advice, alongside a few toxic comments. The discussion includes mentions of India and scammers, with a light-hearted tone overall.",
+  "title": "Indian Snitched On His Own 😭📢",
+  "uploader_id": "@smiletojannah"
+}

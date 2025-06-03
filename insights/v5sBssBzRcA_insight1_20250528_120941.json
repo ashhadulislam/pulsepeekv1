@@ -1,0 +1,35 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 0,
+    "neutral": 2,
+    "negative": 18
+  },
+  "dominant_emotions": [
+    "sarcasm",
+    "anger",
+    "joy"
+  ],
+  "toxic_comment_count": 10,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "India vs Pakistan",
+    "nationalism",
+    "religion and politics",
+    "military conflict"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "India",
+    "Pakistan",
+    "Islamic teacher",
+    "Walmart",
+    "gaumutra"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized with a strong presence of sarcasm and negativity, primarily revolving around India vs Pakistan conflicts, nationalism, and religious-political commentary. The tone is largely mocking and critical, with a high level of toxicity and controversy.",
+  "title": "Indian Snitched On His Own 😭📢",
+  "uploader_id": "@smiletojannah"
+}

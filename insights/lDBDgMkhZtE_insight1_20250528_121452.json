@@ -1,0 +1,37 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 3,
+    "neutral": 2,
+    "negative": 10
+  },
+  "dominant_emotions": [
+    "sarcasm",
+    "anger",
+    "joy"
+  ],
+  "toxic_comment_count": 7,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "religion and cows",
+    "nationalism",
+    "religious purity",
+    "India-Pakistan relations"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Hindus",
+    "Muslims",
+    "India",
+    "Pakistan",
+    "Zionism"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "Hindi"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized with a strong presence of sarcasm, anger, and joy. Topics revolve around religious practices involving cows, nationalism, and the dynamics between India and Pakistan. There's a high level of toxicity and controversy, with frequent mentions of religious and national groups.",
+  "title": "Deploy the Urine! 🚨🐄",
+  "uploader_id": "@smiletojannah"
+}

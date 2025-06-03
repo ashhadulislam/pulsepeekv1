@@ -1,0 +1,35 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 10
+  },
+  "dominant_emotions": [
+    "anger",
+    "disgust",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 7,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "religious criticism",
+    "hygiene",
+    "nationalism",
+    "cultural practices"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Hindus",
+    "Muslims",
+    "India"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Arabic"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly negative and toxic, with a strong focus on criticizing religious and cultural practices, particularly those associated with Hinduism and India. Sarcasm and disgust are prevalent emotions, indicating a heated and polarized discussion. The presence of multiple languages suggests a diverse but contentious audience.",
+  "title": "Deploy the Urine! 🚨🐄",
+  "uploader_id": "@smiletojannah"
+}

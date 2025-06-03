@@ -1,0 +1,38 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 5,
+    "neutral": 2,
+    "negative": 13
+  },
+  "dominant_emotions": [
+    "anger",
+    "nationalism",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 8,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "India-Pakistan relations",
+    "nationalism",
+    "terrorism",
+    "propaganda",
+    "religious bias"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Hindus",
+    "Muslims",
+    "Baloch",
+    "Zionists"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized with strong nationalist sentiments, particularly between India and Pakistan. There's a significant amount of toxicity, with accusations of terrorism, propaganda, and religious bias. Sarcasm is frequently used, and the discussion is emotionally charged with a mix of support and condemnation for various groups and actions.",
+  "title": "India Blamed For Pakistani School Bus Explosion",
+  "uploader_id": "@smiletojannah"
+}

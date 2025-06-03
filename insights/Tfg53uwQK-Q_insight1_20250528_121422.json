@@ -1,0 +1,33 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 0,
+    "negative": 8
+  },
+  "dominant_emotions": [
+    "anger",
+    "disgust",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 6,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "political criticism",
+    "health and disease",
+    "moral judgment"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Biden",
+    "BIG PHARMA",
+    "Rockefeller family"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is overwhelmingly negative, with a strong presence of anger and disgust directed towards political figures and entities. Sarcasm and joy are also present, often in a mocking context. The discussion revolves around political criticism, health, and moral judgments, with frequent mentions of specific groups and individuals. The tone is highly controversial and includes a significant amount of toxicity.",
+  "title": "Biden Has Cancer but…. 🤔",
+  "uploader_id": "@smiletojannah"
+}

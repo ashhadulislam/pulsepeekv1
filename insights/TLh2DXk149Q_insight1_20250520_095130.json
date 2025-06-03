@@ -1,0 +1,33 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 3,
+    "neutral": 2,
+    "negative": 5
+  },
+  "dominant_emotions": [
+    "joy",
+    "anger",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 3,
+  "controversy_score": 0.8,
+  "key_topics": [
+    "historical events",
+    "national identity",
+    "truth and misinformation",
+    "sarcasm"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Israel",
+    "Ben Shapiro",
+    "AllahuAkbar"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized with a mix of sarcasm, joy, and anger. Discussions revolve around historical events, national identity, and truth, with a notable presence of sarcasm and toxicity.",
+  "title": "Verbal KO In Seconds 🥊",
+  "uploader_id": "@smiletojannah"
+}

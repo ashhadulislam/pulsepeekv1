@@ -1,0 +1,38 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 27
+  },
+  "dominant_emotions": [
+    "disgust",
+    "sarcasm",
+    "anger",
+    "joy"
+  ],
+  "toxic_comment_count": 15,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "cow products",
+    "cultural practices",
+    "religious beliefs",
+    "hygiene products"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Hindus",
+    "Indians",
+    "Pakistanis",
+    "Muslims"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "German",
+    "Urdu",
+    "Arabic"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly negative, with a strong presence of disgust and sarcasm directed towards cultural and religious practices involving cow products. There's a significant amount of toxicity, with comments polarizing around religious and national identities. The discussion is emotionally charged, with a high controversy score indicating deep divides.",
+  "title": "Flies Approve This ✅� 🦟",
+  "uploader_id": "@smiletojannah"
+}

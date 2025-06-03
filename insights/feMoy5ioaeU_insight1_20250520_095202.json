@@ -1,0 +1,41 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 5,
+    "neutral": 10,
+    "negative": 85
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "national pride",
+    "disgust"
+  ],
+  "toxic_comment_count": 45,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "India-Pakistan relations",
+    "religious extremism",
+    "nationalism",
+    "military conflicts",
+    "media bias"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Muslims",
+    "Hindus",
+    "RSS",
+    "Modi"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "Hindi",
+    "Arabic"
+  ],
+  "spam_comment_count": 2,
+  "summary": "The comment section is highly polarized with a strong undercurrent of nationalism and religious extremism. There's significant toxicity, with a majority of comments expressing negative sentiments towards India and its leadership, while a smaller fraction shows support for Pakistan and the Muslim ummah. Sarcasm and mockery are prevalent, especially in discussions about 'Akhand Bharat' and Indian policies. The controversy score is high, reflecting the divisive nature of the topics discussed.",
+  "title": "The Internet HATES India After What They Did",
+  "uploader_id": "@smiletojannah"
+}

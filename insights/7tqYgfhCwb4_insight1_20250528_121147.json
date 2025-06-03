@@ -1,0 +1,41 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 5,
+    "neutral": 3,
+    "negative": 22
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "joy",
+    "sadness"
+  ],
+  "toxic_comment_count": 15,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "India-Pakistan relations",
+    "religious tolerance",
+    "media bias",
+    "nationalism",
+    "Bollywood",
+    "political criticism"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Muslims",
+    "Hindus",
+    "Indians",
+    "Pakistanis",
+    "BJP",
+    "RSS",
+    "Turkey"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized, with a strong presence of negative sentiment, particularly towards Indian media, government, and societal issues. There's a notable amount of toxicity and sarcasm, with discussions heavily focused on India-Pakistan relations, religious tolerance, and criticism of political figures and parties. The comments reflect deep-seated tensions and a wide range of emotions from anger to joy, with a significant emphasis on nationalism and media bias.",
+  "title": "Indians Declare WAR on Aamir Khan",
+  "uploader_id": "@smiletojannah"
+}

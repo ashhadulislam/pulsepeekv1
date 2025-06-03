@@ -1,0 +1,39 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 10,
+    "neutral": 2,
+    "negative": 8
+  },
+  "dominant_emotions": [
+    "pride",
+    "joy",
+    "anger",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 5,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "nationalism",
+    "cyber attacks",
+    "India-Pakistan relations",
+    "support for Pakistan",
+    "criticism of India"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Bangladesh",
+    "Muslim Ummah",
+    "Bollywood"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "Arabic"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized with a strong sense of national pride among supporters of Pakistan, alongside significant criticism and sarcasm directed towards India. There's a notable presence of toxic comments, and the discussion is emotionally charged with themes of cyber warfare, nationalism, and unity among Muslim-majority countries. The controversy score is high due to the divisive nature of the topics discussed.",
+  "title": "India Couldn’t Handle Pakistan’s Cyber War",
+  "uploader_id": "@smiletojannah"
+}

@@ -1,0 +1,39 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 5,
+    "neutral": 2,
+    "negative": 8
+  },
+  "dominant_emotions": [
+    "sadness",
+    "anger",
+    "hope",
+    "frustration"
+  ],
+  "toxic_comment_count": 2,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "Palestinian crisis",
+    "Israeli government",
+    "religious faith",
+    "international aid",
+    "historical conflicts"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Allah",
+    "Palestinians",
+    "Jews",
+    "Israeli government",
+    "UAE",
+    "Saudi Arabia"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Arabic"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is deeply emotional, reflecting a strong sense of solidarity with Palestinians, criticism towards the Israeli government, and calls for divine intervention. There's a high level of controversy and polarization, with some toxic remarks and sarcasm. The discourse is heavily influenced by religious faith and historical grievances.",
+  "title": "This Broke Me... 🥺",
+  "uploader_id": "@smiletojannah"
+}

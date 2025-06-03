@@ -1,0 +1,34 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 8,
+    "neutral": 2,
+    "negative": 2
+  },
+  "dominant_emotions": [
+    "joy",
+    "humor",
+    "pride"
+  ],
+  "toxic_comment_count": 0,
+  "controversy_score": 0.2,
+  "key_topics": [
+    "music critique",
+    "rapper comparison",
+    "video content feedback"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Omar Esa",
+    "Bilal",
+    "smile2jannah",
+    "Zeeshanminem",
+    "Kenderick"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is largely positive, filled with humor and praise for the content. There's a notable presence of sarcasm and comparisons to other rappers, indicating a supportive but playful audience. Feedback on the music and video content suggests areas for improvement, but overall, the reception is warm and encouraging.",
+  "title": "Every Rapper Just Retired 🎤",
+  "uploader_id": "@smiletojannah"
+}

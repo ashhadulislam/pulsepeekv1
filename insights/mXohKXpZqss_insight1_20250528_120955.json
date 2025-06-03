@@ -1,0 +1,35 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 17
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 15,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "religion and atheism",
+    "nationalism",
+    "hell and punishment",
+    "Pakistan and India relations"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "atheists",
+    "Muslims",
+    "Hindus"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized and emotionally charged, with a strong presence of sarcasm and toxicity. Discussions revolve around religion, nationalism, and the concept of hell, with frequent mentions of Pakistan and India. The tone is predominantly negative, with a high controversy score indicating intense debate and disagreement.",
+  "title": "He Chose Hell Over Pakistan 💀",
+  "uploader_id": "@smiletojannah"
+}

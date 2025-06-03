@@ -1,0 +1,40 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 5,
+    "negative": 28
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "grief",
+    "hatred"
+  ],
+  "toxic_comment_count": 15,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "religious persecution",
+    "India-Pakistan conflict",
+    "genocide",
+    "media toxicity",
+    "grief and loss"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Hindutva",
+    "Muslims",
+    "Israel",
+    "Palestine",
+    "BJP",
+    "Indian Military"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "Hindi"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized, with a strong presence of negative sentiments, particularly anger and hatred, directed towards opposing religious and national groups. There's a significant focus on the India-Pakistan conflict, with accusations of genocide and religious persecution. The toxicity level is high, with many comments exhibiting sarcasm and deep-seated animosity. The discussion also touches on the role of media in exacerbating tensions and the personal grief of individuals caught in the conflict.",
+  "title": "🚫 How Is This Okay, India?",
+  "uploader_id": "@smiletojannah"
+}

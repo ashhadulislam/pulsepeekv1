@@ -1,0 +1,40 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 10,
+    "neutral": 5,
+    "negative": 20
+  },
+  "dominant_emotions": [
+    "anger",
+    "national pride",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 15,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "Turkey-Pakistan relations",
+    "India-Turkey tensions",
+    "religious solidarity",
+    "nationalism",
+    "military technology"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Turkey",
+    "Muslims",
+    "Hindus"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Turkish",
+    "Urdu",
+    "Arabic"
+  ],
+  "spam_comment_count": 2,
+  "summary": "The comment section is highly polarized with strong expressions of national pride, especially from Turkish and Pakistani users, alongside significant criticism and sarcasm directed towards India. There's a notable emphasis on religious and national solidarity, with a high level of toxicity and controversy. The discussion frequently touches on geopolitical tensions, military support, and cultural stereotypes.",
+  "title": "India’s MELTDOWN Against Turkey",
+  "uploader_id": "@smiletojannah"
+}

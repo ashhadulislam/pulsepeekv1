@@ -1,0 +1,36 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 10,
+    "neutral": 5,
+    "negative": 15
+  },
+  "dominant_emotions": [
+    "anger",
+    "joy",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 8,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "India-Pakistan relations",
+    "nationalism",
+    "religion",
+    "war and peace"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Israel",
+    "Muslim Ummah"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "Arabic"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized with a strong presence of nationalistic sentiments, particularly between India and Pakistan. There's a significant amount of toxicity and sarcasm, alongside expressions of solidarity and support for Pakistan from various countries. The discussion also touches on religious themes and the desire for peace amidst ongoing tensions.",
+  "title": "India Begs To Stop After Humiliation",
+  "uploader_id": "@smiletojannah"
+}

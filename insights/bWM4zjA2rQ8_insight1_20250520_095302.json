@@ -1,0 +1,31 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 6,
+    "neutral": 2,
+    "negative": 4
+  },
+  "dominant_emotions": [
+    "joy",
+    "confusion",
+    "pride"
+  ],
+  "toxic_comment_count": 0,
+  "controversy_score": 0.6,
+  "key_topics": [
+    "religious views on music",
+    "dawah",
+    "artist appreciation"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Muslim",
+    "Omar Esa"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is largely positive with expressions of joy and appreciation for the artist, Omar Esa. However, there's notable confusion and debate over the religious permissibility of music, indicating a mix of support and theological questioning. The presence of sarcasm and pride in dawah efforts adds layers to the discussion.",
+  "title": "Every Rapper Just Retired 🎤",
+  "uploader_id": "@smiletojannah"
+}

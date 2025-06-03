@@ -1,0 +1,35 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 0,
+    "neutral": 1,
+    "negative": 6
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "disgust"
+  ],
+  "toxic_comment_count": 5,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "child marriage",
+    "AIPAC",
+    "Israel-USA relations",
+    "Qatar-USA relations",
+    "genocide"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "AIPAC",
+    "Israel",
+    "USA",
+    "Qatar"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly negative and toxic, with a strong presence of anger and sarcasm. Discussions revolve around controversial topics such as child marriage, AIPAC's influence, and international relations between Israel, USA, and Qatar. The tone is confrontational, with a high level of controversy and polarization.",
+  "title": "He Spoke. I Buried ⚰️",
+  "uploader_id": "@smiletojannah"
+}

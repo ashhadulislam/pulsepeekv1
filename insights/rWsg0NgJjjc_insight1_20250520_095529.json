@@ -1,0 +1,38 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 6,
+    "neutral": 2,
+    "negative": 6
+  },
+  "dominant_emotions": [
+    "national pride",
+    "anger",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 4,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "nationalism",
+    "India-Pakistan relations",
+    "military equipment",
+    "political criticism"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "China",
+    "Modi",
+    "Hindus",
+    "Israel"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized with a strong presence of national pride, particularly for Pakistan, alongside critical and sarcastic remarks towards India and its political figures. There's a notable amount of toxicity, especially in comments targeting India and its policies, and a high level of controversy stemming from the India-Pakistan relations discourse.",
+  "title": "India Got Abandoned 🤕",
+  "uploader_id": "@smiletojannah"
+}

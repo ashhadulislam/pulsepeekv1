@@ -1,0 +1,37 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 3,
+    "neutral": 2,
+    "negative": 10
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "joy",
+    "disgust"
+  ],
+  "toxic_comment_count": 5,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "freedom of speech",
+    "media bias",
+    "religion and blasphemy",
+    "anti-Semitism",
+    "BBC criticism"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "BBC",
+    "Zionists",
+    "Muslims",
+    "Jews",
+    "Gary Lineker"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized, with a strong presence of criticism towards the BBC, accusations of media bias, and discussions on freedom of speech versus blasphemy. There's a notable amount of toxicity, including anti-Semitic undertones and sarcasm. The sentiment is predominantly negative, reflecting deep societal and political divides.",
+  "title": "BBC Cancels Gary Lineker Over “Anti-Semitic” Emoji",
+  "uploader_id": "@smiletojannah"
+}

@@ -1,0 +1,32 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 3,
+    "neutral": 1,
+    "negative": 4
+  },
+  "dominant_emotions": [
+    "anger",
+    "joy",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 3,
+  "controversy_score": 0.8,
+  "key_topics": [
+    "religion",
+    "debate",
+    "socialism"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Muslim",
+    "socialist",
+    "Allah"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized with a mix of support, criticism, and sarcasm, particularly around religious and political debates. There's a notable presence of toxicity and a high level of controversy.",
+  "title": "😳 That Comeback Was Illegal",
+  "uploader_id": "@smiletojannah"
+}

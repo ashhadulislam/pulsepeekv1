@@ -1,0 +1,34 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 10
+  },
+  "dominant_emotions": [
+    "joy",
+    "sarcasm",
+    "anger"
+  ],
+  "toxic_comment_count": 5,
+  "controversy_score": 0.8,
+  "key_topics": [
+    "political criticism",
+    "humor",
+    "nationalism"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "BJP RSS",
+    "Shiva",
+    "India",
+    "USA"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Hindi"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is dominated by sarcastic and humorous remarks with a significant undercurrent of political criticism and nationalism. There's a notable presence of toxicity, particularly in comments targeting political figures and religious sentiments. The overall tone is light-hearted but polarized, with a high controversy score due to the sensitive topics discussed.",
+  "title": "🔦 Lazer Eyes… On Low Power",
+  "uploader_id": "@smiletojannah"
+}

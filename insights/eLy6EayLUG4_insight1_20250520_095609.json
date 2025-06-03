@@ -1,0 +1,34 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 6,
+    "neutral": 3,
+    "negative": 3
+  },
+  "dominant_emotions": [
+    "joy",
+    "pride",
+    "criticism"
+  ],
+  "toxic_comment_count": 1,
+  "controversy_score": 0.6,
+  "key_topics": [
+    "national pride",
+    "religion",
+    "political leadership"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Malaysia",
+    "Muslim",
+    "Putin",
+    "Pakistan"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Malay"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section reflects a strong sense of national pride among Malaysians and Muslims, with a mix of joy, criticism, and sarcasm. There's a notable mention of political leadership and religion, contributing to a moderate level of controversy and a low level of toxicity.",
+  "title": "Malaysian Alpha Energy 😎🔥",
+  "uploader_id": "@smiletojannah"
+}

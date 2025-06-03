@@ -1,0 +1,37 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 4,
+    "neutral": 1,
+    "negative": 15
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "joy",
+    "disgust"
+  ],
+  "toxic_comment_count": 10,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "Islam and secularism",
+    "refugees and migration",
+    "criticism of Islamic figures",
+    "Western societies",
+    "interfaith relations"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Muslims",
+    "Western countries",
+    "Christian countries",
+    "Charlie Kirk",
+    "Islamic regimes"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized and emotionally charged, with a strong presence of criticism towards Islam and its practices, alongside support for the video's content. There's a significant amount of toxicity, with comments displaying anger, sarcasm, and disgust. The discussion revolves around Islam's compatibility with secular values, the migration of Muslims to Western countries, and criticism of Islamic historical figures. The controversy score is high, indicating a deeply divided audience.",
+  "title": "Charlie Kirk’s Islam Rant BACKFIRES (Muslim Response)",
+  "uploader_id": "@smiletojannah"
+}

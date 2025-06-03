@@ -1,0 +1,40 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 27
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "joy",
+    "disgust"
+  ],
+  "toxic_comment_count": 15,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "India-Pakistan relations",
+    "media bias",
+    "nationalism",
+    "religion",
+    "fake news"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Muslims",
+    "Hindus",
+    "China",
+    "Kashmiris"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "French"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized and emotionally charged, with a strong presence of nationalistic and religious sentiments. There's a significant amount of toxicity, sarcasm, and criticism directed towards India, its media, and political figures. The discussion revolves around India-Pakistan relations, with frequent mentions of fake news, media bias, and religious identity. The controversy score is high, indicating a deeply divided and contentious discussion.",
+  "title": "India Took Over Pakistan In 1 Night...",
+  "uploader_id": "@smiletojannah"
+}

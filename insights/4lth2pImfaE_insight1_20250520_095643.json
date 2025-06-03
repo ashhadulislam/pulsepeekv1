@@ -1,0 +1,43 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 27
+  },
+  "dominant_emotions": [
+    "anger",
+    "hatred",
+    "sarcasm",
+    "disgust"
+  ],
+  "toxic_comment_count": 20,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "India-Pakistan relations",
+    "Zionism",
+    "Hindutva",
+    "terrorism",
+    "false flag operations",
+    "nationalism",
+    "religious extremism"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "India",
+    "Pakistan",
+    "Israel",
+    "Hindus",
+    "Muslims",
+    "Zionists",
+    "Modi",
+    "Netanyahu"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized and emotionally charged, with a strong presence of anger, hatred, and sarcasm. The discussion revolves around India-Pakistan relations, with frequent mentions of Zionism, Hindutva, and accusations of terrorism and false flag operations. There's a significant amount of toxicity, with many comments displaying religious and nationalistic biases. The controversy score is high, indicating a deeply divided and contentious discussion.",
+  "title": "🚫 How Is This Okay, India?",
+  "uploader_id": "@smiletojannah"
+}

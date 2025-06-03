@@ -1,0 +1,27 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 0,
+    "neutral": 0,
+    "negative": 0
+  },
+  "dominant_emotions": [],
+  "toxic_comment_count": 0,
+  "controversy_score": 0,
+  "key_topics": [
+    "donation",
+    "Islam",
+    "Africa"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Muslims",
+    "Africa"
+  ],
+  "sarcasm_detected": false,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment is a solicitation for donations aimed at supporting new Muslims in East Africa, categorized as spam due to its promotional nature.",
+  "title": "LIVE Q&A With Smile2Jannah",
+  "uploader_id": "@smiletojannah"
+}

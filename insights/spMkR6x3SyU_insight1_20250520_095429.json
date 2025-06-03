@@ -1,0 +1,37 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 1,
+    "neutral": 0,
+    "negative": 19
+  },
+  "dominant_emotions": [
+    "sarcasm",
+    "anger",
+    "joy"
+  ],
+  "toxic_comment_count": 15,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "religion",
+    "nationalism",
+    "colonialism",
+    "racism"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Hindu",
+    "Islam",
+    "India",
+    "Pakistan",
+    "Brits"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu",
+    "Dutch"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly negative and toxic, with a strong presence of sarcasm and anger. Comments are polarized around religious and nationalistic themes, with frequent mentions of Hinduism, Islam, and colonial history. The controversy score is high, indicating a deeply divided and contentious discussion.",
+  "title": "Only in India 🕉️ 💀",
+  "uploader_id": "@smiletojannah"
+}

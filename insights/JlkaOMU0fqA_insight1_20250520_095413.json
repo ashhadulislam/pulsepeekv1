@@ -1,0 +1,31 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 3,
+    "neutral": 2,
+    "negative": 1
+  },
+  "dominant_emotions": [
+    "joy",
+    "humor",
+    "confusion"
+  ],
+  "toxic_comment_count": 0,
+  "controversy_score": 0.3,
+  "key_topics": [
+    "King Charles",
+    "Bradford",
+    "social experiment"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "King Charles",
+    "Bradford"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is light-hearted with a focus on humor and admiration for King Charles, alongside playful confusion about Bradford. There's minimal controversy and no toxicity detected.",
+  "title": "Bradford Made King Human 😂👑",
+  "uploader_id": "@smiletojannah"
+}

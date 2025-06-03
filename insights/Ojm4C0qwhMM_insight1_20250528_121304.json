@@ -1,0 +1,40 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 10,
+    "neutral": 5,
+    "negative": 7
+  },
+  "dominant_emotions": [
+    "joy",
+    "anger",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 4,
+  "controversy_score": 0.8,
+  "key_topics": [
+    "nationalism",
+    "religion",
+    "military",
+    "international relations",
+    "misinformation"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistan",
+    "India",
+    "Muslims",
+    "Hindus",
+    "Christians",
+    "Sikhs",
+    "Jains",
+    "Parsis"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized with a mix of national pride, religious sentiment, and criticism. There's a significant presence of joy and sarcasm, alongside anger, indicating a lively debate. The discussion spans topics of nationalism, religion, and international relations, with notable mentions of various religious and national groups. The section also contains a moderate level of toxicity and some spam.",
+  "title": "Christian Pilot Crushed India; Hero in Pakistan",
+  "uploader_id": "@smiletojannah"
+}

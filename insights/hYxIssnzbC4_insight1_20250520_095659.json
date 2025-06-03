@@ -1,0 +1,38 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 3,
+    "neutral": 2,
+    "negative": 10
+  },
+  "dominant_emotions": [
+    "anger",
+    "joy",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 7,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "beef consumption",
+    "Hindutva",
+    "Muslims and minorities",
+    "India-Pakistan relations",
+    "IMF loans"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Pakistanis",
+    "Indians",
+    "Muslims",
+    "Hindus",
+    "RSS",
+    "Modi"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Urdu"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized with a strong presence of negative sentiment, particularly around topics of beef consumption, Hindutva, and India-Pakistan relations. Sarcasm and joy are also prevalent, often used in a mocking context. The discussion is charged with nationalistic and religious biases, reflecting deep-seated tensions. Toxicity is significant, with a high controversy score indicating a volatile exchange of views.",
+  "title": "Pakistani Went Full Savage 🔥",
+  "uploader_id": "@smiletojannah"
+}

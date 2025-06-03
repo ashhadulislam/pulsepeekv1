@@ -1,0 +1,37 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 5,
+    "negative": 28
+  },
+  "dominant_emotions": [
+    "anger",
+    "distrust",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 15,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "Trump's motives",
+    "US-Israel relations",
+    "Middle East politics",
+    "propaganda",
+    "trust issues"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Israel",
+    "Trump",
+    "AIPAC",
+    "Zionists",
+    "Palestinians"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "Czech"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized with a strong undercurrent of distrust and anger towards Trump and US-Israel relations. Many comments express skepticism about Trump's motives, viewing his actions as insincere or strategic. There's a prevalent theme of conspiracy and distrust towards political figures and governments, with a significant amount of toxicity. Sarcasm is frequently used to mock or criticize the subjects discussed.",
+  "title": "USA Just Turned on Israel- It’s Getting Ugly",
+  "uploader_id": "@smiletojannah"
+}

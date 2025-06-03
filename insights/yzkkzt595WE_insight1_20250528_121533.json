@@ -1,0 +1,38 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 17
+  },
+  "dominant_emotions": [
+    "anger",
+    "sarcasm",
+    "joy"
+  ],
+  "toxic_comment_count": 10,
+  "controversy_score": 0.85,
+  "key_topics": [
+    "Charlie Kirk debates",
+    "Israeli-Palestinian conflict",
+    "Islam and Muslims",
+    "freedom of speech",
+    "genocide"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Charlie Kirk",
+    "Hamas",
+    "Israel",
+    "Palestine",
+    "Muslims",
+    "Christians",
+    "Ben Shapiro"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English"
+  ],
+  "spam_comment_count": 1,
+  "summary": "The comment section is highly polarized with a strong negative sentiment towards Charlie Kirk and associated figures, reflecting deep divisions on topics like the Israeli-Palestinian conflict, Islam, and freedom of speech. Sarcasm and toxicity are prevalent, indicating a heated and contentious discussion environment.",
+  "title": "Random Student Just Ended Charlie Kirk’s Career",
+  "uploader_id": "@smiletojannah"
+}

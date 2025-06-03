@@ -1,0 +1,39 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 2,
+    "neutral": 1,
+    "negative": 17
+  },
+  "dominant_emotions": [
+    "anger",
+    "fear",
+    "sarcasm",
+    "religious fervor"
+  ],
+  "toxic_comment_count": 10,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "Israeli-Palestinian conflict",
+    "biblical prophecy",
+    "Western media bias",
+    "colonialism",
+    "genocide accusations"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "Israel",
+    "Palestine",
+    "Western countries (UK, France, Canada)",
+    "Allah",
+    "Bible"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "English",
+    "French",
+    "Arabic"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is highly polarized and emotionally charged, with a strong presence of anger and religious fervor. There is significant controversy around the Israeli-Palestinian conflict, with accusations of genocide, media bias, and colonialism. The discussion is marked by a high level of toxicity and a deep division between pro-Israel and pro-Palestine viewpoints, with frequent references to biblical and Quranic prophecies.",
+  "title": "The World Is Turning On Israel",
+  "uploader_id": "@smiletojannah"
+}

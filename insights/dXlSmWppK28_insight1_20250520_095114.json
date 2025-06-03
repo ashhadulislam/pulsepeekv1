@@ -1,0 +1,41 @@
+{
+  "overall_sentiment_distribution": {
+    "positive": 0,
+    "neutral": 2,
+    "negative": 48
+  },
+  "dominant_emotions": [
+    "anger",
+    "disgust",
+    "fear",
+    "sarcasm"
+  ],
+  "toxic_comment_count": 35,
+  "controversy_score": 0.9,
+  "key_topics": [
+    "Islam and culture",
+    "UAE and Saudi Arabia's Islamic identity",
+    "Palestinian genocide",
+    "Western influence",
+    "Women's rights in Islam"
+  ],
+  "frequent_bias_or_group_mentions": [
+    "UAE",
+    "Saudi Arabia",
+    "Arabs",
+    "Muslims",
+    "Zionists",
+    "Americans"
+  ],
+  "sarcasm_detected": true,
+  "languages_detected": [
+    "Arabic",
+    "English",
+    "Indonesian",
+    "Malay"
+  ],
+  "spam_comment_count": 0,
+  "summary": "The comment section is overwhelmingly negative, with strong expressions of anger, disgust, and fear towards the UAE and Saudi Arabia's actions and their perceived betrayal of Islamic values. There's significant controversy over the Islamic identity of these countries, criticism of their relations with the US and Israel, and concern over the portrayal of women. The comments reflect a deep polarization and a high level of toxicity, with sarcasm and references to cultural and religious betrayal prevalent throughout.",
+  "title": "Arab Hair Swish Goes Viral 🌐",
+  "uploader_id": "@smiletojannah"
+}
