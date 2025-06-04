@@ -30,6 +30,49 @@ df = load_data()
 creators = sorted(df["creator_id"].unique())
 selected_creator = st.selectbox("Select YouTube Creator", creators)
 
+# Audience Summary per Creator
+st.markdown("## 🧭 Audience Interaction Summary")
+
+# Load summarized analysis CSV
+summary_file = "summarized_analyzed_comments/summarized_analyzed.csv"
+if "summary_df" not in st.session_state:
+    summary_df = pd.read_csv(summary_file)    
+    summary_df["summary_analysis"] = summary_df["summary_analysis"].apply(json.loads)
+    st.session_state.summary_df = summary_df
+else:
+    summary_df = st.session_state.summary_df
+
+# Fetch the latest summary for the selected creator
+creator_summary = summary_df[summary_df["creator_id"] == selected_creator]
+if not creator_summary.empty:
+    latest_entry = creator_summary.sort_values("timestamp", ascending=False).iloc[0]
+    summary = latest_entry["summary_analysis"]
+
+    st.subheader(f"📊 Audience Summary for {selected_creator}")
+    st.markdown(f"**Summarized from {len(latest_entry['summarized_video_ids'])} recent videos**")
+
+    col1, col2, col3 = st.columns(3)
+    sentiment = summary["audience_sentiment_overview"]
+    col1.metric("👍 Positive", sentiment.get("positive", 0))
+    col2.metric("😐 Neutral", sentiment.get("neutral", 0))
+    col3.metric("👎 Negative", sentiment.get("negative", 0))
+
+    render_tag_list("💥 Common Emotions", summary["common_emotions_expressed"])
+    render_tag_list("🧵 Recurrent Themes", summary["recurrent_themes"])
+    render_tag_list("🏷️ Group/Bias Mentions", summary["bias_or_group_mentions"])
+    render_tag_list("🌍 Languages", summary["languages_used"])
+
+    if summary.get("is_sarcasm_common"):
+        st.warning("😏 Sarcasm appears frequently in audience comments.")
+
+    st.markdown(f"**Toxicity Level**: `{summary['spam_or_toxicity_prevalence'].capitalize()}`")
+    st.markdown(f"**Behavior Summary**: _{summary['overall_audience_behavior_summary']}_")
+    st.success(summary["concluding_summary"])
+
+
+## End of creator summary    
+
+
 # Filter videos for selected creator
 creator_videos = df[df["creator_id"] == selected_creator]
 video_options = creator_videos["title"] + " (" + creator_videos["id"] + ")"
@@ -80,3 +123,6 @@ with st.expander("🔍 View Raw JSON"):
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 export_filename = f"{video_id}_insight_export_{timestamp}.json"
 st.download_button("📥 Download JSON", json.dumps(analysis, indent=2), file_name=export_filename)
+
+
+
